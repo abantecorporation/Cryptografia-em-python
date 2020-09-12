@@ -4,11 +4,11 @@ acesso a ele
 
 Requisitos :
 Python 3.8 64-bit ou 32-bit
-pip install 
+e també vai prescisar do  pip install
 
 Como usar:
 
-Abra o prompot de comando e digite cd  C:\Users\gabri\AppData\Local\Programs\Python\Python38\Lib\site-packages
+Abra o prompot de comando e digite cd  C:\Users\Usuário\AppData\Local\Programs\Python\Python38\Lib\site-packages
 pressione enter
 logo apos digite python  pip install time
 pressione enter
