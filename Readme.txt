@@ -1,6 +1,6 @@
 Cryptography-in-python
 Created by Abante Corporation
-Cryptography Type: Cesar's cipher
+Cryptography Type: Advanced Encryption Standard (AES)
 _____________________________________________________________________________________________________________________________________________________
 
 This script will basically encrypt or decrypt files that you want no one to have access to.
