@@ -1,9 +1,9 @@
 Cryptografia-em-python
 Criado por Abante Corporation
-Tipo de Criptógrafia: Cifra de César
+Tipo de CriptÃ³grafia: Advanced Encryption Standard (AES)
 _____________________________________________________________________________________________________________________________________________________
 
-Este script basicamente vai cryptografar ou descriptografar arquivos que você deseja que ninguem tenha acesso a ele
+Este script basicamente vai cryptografar ou descriptografar arquivos que vocÃª deseja que ninguem tenha acesso a ele
 
 Requisitos : 
 Python 3.8 64-bit ou 32-bit 
@@ -11,14 +11,14 @@ prescisa do pip install
 
 Como usar:
 
-Abra o prompot de comando e digite cd C:\Users\Usuário\AppData\Local\Programs\Python\Python38\Lib\site-packages pressione enter logo apos digite python pip install 
+Abra o prompot de comando e digite cd C:\Users\UsuÃ¡rio\AppData\Local\Programs\Python\Python38\Lib\site-packages pressione enter logo apos digite python pip install 
 time pressione enter e depois digite python pip install pyAesCrypt pressione enter
 
-logo depois extraia apenas o arquivo criptografia.py para o diretório do seu arquivo que deseja cryptografar abra o arquivo criptografia.py com qualquer editor como notepad++ 
-troque as partes que estiver escrito 'Nome do Arquivo aqui' pelo nome do seu arquivo que quer criptografar adicionando .txt atenção adicionar .txt só onde não tem .aes
+logo depois extraia apenas o arquivo criptografia.py para o diretÃ³rio do seu arquivo que deseja cryptografar abra o arquivo criptografia.py com qualquer editor como notepad++ 
+troque as partes que estiver escrito 'Nome do Arquivo aqui' pelo nome do seu arquivo que quer criptografar adicionando .txt atenÃ§Ã£o adicionar .txt sÃ³ onde nÃ£o tem .aes
 
-Criptografia apos ter feito tudo isso salve o arquivo criptografia.py depois de ter editado e clique duas vezes no arquivo criptografia.py e vão aparecer duas 
-opções conforme mostrado abaixo:
+Criptografia apos ter feito tudo isso salve o arquivo criptografia.py depois de ter editado e clique duas vezes no arquivo criptografia.py e vÃ£o aparecer duas 
+opÃ§Ãµes conforme mostrado abaixo:
 
 digite: 
 1 - Encript 
@@ -29,11 +29,11 @@ e pressione enter
 
 E PRONTO SEU ARQUIVO ESTA ENCRIPTADO
 
-OBS: APÓS CRIPTOGRAFAR NÃO TENTE EDITAR SEU ARQUIVO POIS PODE CAUSAR COMPLICAÇÕES FUTURAS 
-RECOMENDADO: FAZER UMA CÓPIA
+OBS: APÃ“S CRIPTOGRAFAR NÃƒO TENTE EDITAR SEU ARQUIVO POIS PODE CAUSAR COMPLICAÃ‡Ã•ES FUTURAS 
+RECOMENDADO: FAZER UMA CÃ“PIA
 
 Descriptografia
 
-Clique duas vezes no arquivo criptografia.py e digite 2 após isso pressione enter e vai pedir a senha que você colocou digite essa senha
+Clique duas vezes no arquivo criptografia.py e digite 2 apÃ³s isso pressione enter e vai pedir a senha que vocÃª colocou digite essa senha
 
 E PRONTO SEU ARQUIVO ESTA DESCRIPTOGRAFADO
